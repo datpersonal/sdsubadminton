@@ -1,2 +1,2 @@
 # sdsubadminton
-sdsu badminton webpage 
+Hi this is the kimo branch
