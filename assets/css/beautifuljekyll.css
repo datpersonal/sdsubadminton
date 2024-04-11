@@ -146,7 +146,7 @@ img {
 .navbar-custom.top-nav-short-permanent {
   padding-top: 0;
   padding-bottom: 0;
-  height: 7rem
+
 }
 
 .navbar-custom .navbar-brand {
@@ -362,10 +362,10 @@ img {
   display: none;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 900px) {
   .navbar-custom.top-nav-regular .avatar-container {
-    width: 6.25rem;
-    bottom: 0.5rem;
+    width: 4rem;
+    bottom: -1rem;
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
@@ -647,7 +647,7 @@ footer .footer-custom-content {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-top: 5.1875rem; /* The small navbar is 50px tall + 1px border */
+  margin-top: 3.1875rem; /* The small navbar is 50px tall + 1px border */
   margin-bottom: 2.1875rem;
 }
 nav.top-nav-short-permanent ~ header > .intro-header {
@@ -701,7 +701,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
-  font-weight: 200;
+  font-weight: 400;
 }
 .intro-header.big-img .page-heading hr {
   box-shadow: 1px 1px 3px #000;
@@ -731,7 +731,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
-    padding: 9.375rem 0;
+    padding: 5.375rem 0;
   }
   .intro-header .page-heading h1 {
     font-size: 3rem;
