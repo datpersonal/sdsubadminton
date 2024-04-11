@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
-permalink: /equipments/
+title: Equipments and where to buy
+subtitle: Information about badminton merchants in San Diego
 ---
-What to buy
+
