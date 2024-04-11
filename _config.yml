@@ -20,7 +20,7 @@ author: Dat Truong & Kimo
 ###############################################
 
 navbar-links:
-  Home: 
+  Home: "home" 
   Resources:
     - Where To Play: "wheretoplay"
     - Equipments:  "equipments"
