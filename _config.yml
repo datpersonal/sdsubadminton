@@ -22,11 +22,11 @@ author: Dat Truong & Kimo
 navbar-links:
   Resources:
     - Where To Play: "wheretoplay"
-    - Equipments:  "equipments"
+    - Equipments:  "equipments" 
+  About Us: "aboutus"
   Author's home:
     - Dat Truong: "https://datpersonal.github.io"
     - Kimo: "https://github.com/happykimo"
-  About Us: "aboutus"
 
 ################
 # --- Logo --- #
