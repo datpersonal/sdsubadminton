@@ -11,5 +11,21 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
     
+      <item>
+        <title>Last League Match</title>
+        <description>
+          
+          Last league match of the year! 💙💛 A big thank you to @uclabadminton for organizing, and great job to all of our players!! 👏
+
+        View this post on Instagram            A post shared by San Diego State University Badminton (@sdsu.badminton)
+
+
+
+        </description>
+        <pubDate>Wed, 22 May 2024 22:15:00 +0000</pubDate>
+        <link>http://localhost:4000/2024-05-22-first-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/2024-05-22-first-blog/</guid>
+      </item>
+    
   </channel>
 </rss>
